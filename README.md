@@ -9,7 +9,7 @@ A full-stack software engineer with 6+ years of experience building scalable, hi
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [Portfolio](https://darwayne.netlify.app)
 * ✉️  You can contact me at [alfaro.darwayne.jay@gmail.com](mailto:alfaro.darwayne.jay@gmail.com)
-* 🚀  I'm currently working on [NextJS 15 Boilerplate](https://darwayne.netlify.app)
+* 🚀  I'm currently working on [NextJS 15 Boilerplate](https://darwayne.netlify.app/dashboard)
 * 🧠  I'm learning Swift and Cloud Computing
 * ⚡  I do charity work for the Church.
 
