@@ -7,9 +7,9 @@ Software Engineer
 A full-stack software engineer with 6+ years of experience building scalable, high-performance web and mobile applications. Skilled in Node.js, React, Next.js, Angular, React Native, and databases like MySQL and PostgreSQL, I bring a focus on efficiency and clean code. Passionate about tech, I’m always open to connecting and collaborating on innovative projects!
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Portfolio](https://darwayne.netlify.ap)
+* 🖥️  See my portfolio at [Portfolio](https://darwayne.netlify.app)
 * ✉️  You can contact me at [alfaro.darwayne.jay@gmail.com](mailto:alfaro.darwayne.jay@gmail.com)
-* 🚀  I'm currently working on [NextJS 15 Boilerplate](https://darwayne.netlify.ap)
+* 🚀  I'm currently working on [NextJS 15 Boilerplate](https://darwayne.netlify.app)
 * 🧠  I'm learning Swift and Cloud Computing
 * ⚡  I do charity work for the Church.
 
